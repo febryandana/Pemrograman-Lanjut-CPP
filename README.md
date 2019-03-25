@@ -1,3 +1,3 @@
 # Praktikum Pemrograman Lanjut
 Backup repository</br>
-Khusus untuk Praktikum matakuliah Pemrograman Lanjut C++</br>
+Khusus untuk matakuliah Praktikum Pemrograman Lanjut C++</br>
