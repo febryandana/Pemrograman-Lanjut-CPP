@@ -1,6 +1,3 @@
 # Praktikum Pemrograman Lanjut
-Pemrograman Lanjut C++ 
-Teknik Komputer
-Fakultas Ilmu Komputer
-Universitas Brawijaya
-2018-2019
+Backup repository</br>
+Khusus untuk Praktikum matakuliah Pemrograman Lanjut C++</br>
