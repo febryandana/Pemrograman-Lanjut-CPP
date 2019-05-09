@@ -1,0 +1,15 @@
+Nama    : Moch. Febryandana Nurfahri
+NIM     : 185150301111016
+Alamat  : Jl. Cipayung no 18A
+=====================================
+
+Nama    : nama2
+NIM     : 12345
+Alamat  : alamat2
+=====================================
+
+Nama    : nama3
+NIM     : 102921
+Alamat  : alamat3
+=====================================
+

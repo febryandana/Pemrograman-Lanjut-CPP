@@ -1,0 +1,9 @@
+1. Buatlah sebuah progra yang menampilkan masukan berupa Nama, NIM, Alamat yang mempunyai tipe data String
+2. Simpan hasil masukan user ke dalam sebuah file
+3. Tampilkan isi dari File
+4. Simpan hasil beberapa kali masukan user ke dalam sebuah file. File yang sudah ada isinya akan ditambah di bagian bawah dengan isi yang baru.
+
+Menu :
+1. Masukkan Total Penjualan Harian -> write file
+2. Tampilkan Total Harian -> read file
+3. Hitung seluruh penjualan -> operasi dari file
